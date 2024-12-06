@@ -1,29 +1,17 @@
-Basic Testing Concepts:
-Types of Testing: Unit Testing, Integration Testing, System Testing, Acceptance Testing, Regression Testing, Smoke Testing, Sanity Testing, etc.
-Testing Levels:
-Functional Testing vs Non-functional Testing
-Black-box Testing vs White-box Testing
-Ad-hoc Testing and Exploratory Testing
-Testing Life Cycle: Requirements Analysis, Test Planning, Test Design, Test Execution, Defect Reporting, and Closure.
-Test Documentation:
-Test Case Writing: Learn how to write clear, effective test cases.
-Example: "Test Case Template" (Test ID, Description, Pre-conditions, Steps, Expected Result, Actual Result).
-Test Plan: Overview of test strategy, scope, objectives, and resources.
-Test Report: Documenting results, coverage, and any defects.
-Bug Reporting: Proper use of tools like JIRA, Bugzilla, or Trello.
-Example: Defect Template (Defect ID, Severity, Steps to Reproduce, Expected vs Actual Results, Status).
-Testing Techniques:
-Boundary Value Analysis
-Equivalence Partitioning
-Decision Table Testing
-Pairwise Testing
-Error Guessing
-Test Environment:
-Cross-browser Testing: Testing on different browsers (Chrome, Firefox, Safari, etc.).
-Mobile Testing: Manual testing on different mobile devices (iOS, Android).
-Compatibility Testing: Ensuring your software works across different operating systems, devices, and networks.
-Common Manual Testing Tools:
-Bug Tracking Tools: JIRA, Trello, Bugzilla.
-Test Management Tools: TestRail, Zephyr.
-Other Tools: Postman (for API testing), Chrome DevTools (for inspecting browser issues).
+# Manual Testing Portfolio
 
+Welcome to my manual testing portfolio. This repository showcases my understanding and experience with various types of manual testing. The tests provided here include sample test cases, test plans, and bug reports for different types of testing that I have worked on or practiced.
+
+## Types of Testing
+
+1. **Unit Testing**: Testing individual components or functions in isolation.
+2. **Integration Testing**: Testing the interaction between different components.
+3. **System Testing**: Testing the complete system in an integrated environment.
+4. **Acceptance Testing**: Verifying that the software meets business requirements.
+5. **Regression Testing**: Ensuring that recent changes have not affected existing functionality.
+6. **Smoke Testing**: Basic checks to see if the application is stable enough for further testing.
+7. **Sanity Testing**: Quick checks to verify that new functionality works as expected.
+
+---
+
+Feel free to explore each folder for detailed test cases, bug reports, and examples of my manual testing skills.
