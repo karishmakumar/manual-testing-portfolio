@@ -1,1 +1,16 @@
+Test Documentation: Write descriptions explaining the specific type of testing and its purpose.
+Sample Test Cases: Provide examples of test cases that you would write for that type of testing.
+Test Execution Log (optional): If you have executed tests, you can show the results or logs in a structured format (e.g., Excel sheets, screenshots, or text files).
+Bug Reports (optional): Include examples of defect reporting for each type of test if relevant.
+Test Plan: Briefly show how you would integrate that testing type into a larger testing strategy.
 
+
+
+
+
+a) Unit Testing:
+Content:
+Description: "Unit testing involves testing individual components or functions of the software in isolation."
+Example: You could demonstrate unit testing by including sample test cases for individual functions (you can write these manually or simulate using code snippets).
+Sample Test Case: Include a test case for testing a simple function (e.g., a function that adds two numbers).
+Tool Used (optional): You could mention a popular tool for unit testing like JUnit (if you know it), even if you’re manually writing the test cases.
