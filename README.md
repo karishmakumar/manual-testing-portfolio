@@ -14,4 +14,4 @@ Welcome to my manual testing portfolio. This repository showcases my understandi
 
 ---
 
-Feel free to explore each folder for detailed test cases, bug reports, and examples of my manual testing skills.
+Please feel free to explore each folder for detailed test cases, bug reports, and examples of my manual testing skills.
